@@ -12,6 +12,34 @@ export default function Chats() {
           <span> Rohit </span>
           <p>hello</p>
         </div>
+        
+      </div>
+      <div className="userChat">
+        <FontAwesomeIcon icon={faUser}/>
+
+        <div className="userChatInfo">
+          <span> Rohit </span>
+          <p>hello</p>
+        </div>
+        
+      </div>
+      <div className="userChat">
+        <FontAwesomeIcon icon={faUser}/>
+
+        <div className="userChatInfo">
+          <span> Rohit </span>
+          <p>hello</p>
+        </div>
+        
+      </div>
+      <div className="userChat">
+        <FontAwesomeIcon icon={faUser}/>
+
+        <div className="userChatInfo">
+          <span> Rohit </span>
+          <p>hello</p>
+        </div>
+        
       </div>
     </div>
   )
